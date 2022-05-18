@@ -1,26 +1,23 @@
 sectors:
-  - name: 'Sector 1'
-    color: '#3498db'
-  - name: 'Sector 2'
-    color: '#e74c3c'
-  - name: 'Sector 3'
-    color: '#9b59b6'
-  - name: 'Sector 4'
-    color: '#9b59b6'
+  - name: 'Develop'
+  - name: 'Deliver'
+  - name: 'Discover'
+  - name: 'Define'
  
   
 rings:
   legendTitle: 'Ringe/Segmente'
   list:
-    - name: 'Ring 1'
-      color: '#93c47d'
-    - name: 'Ring 2'
-      color: '#93d2c2'
-    - name: 'Ring 3'
-      color: '#fbdb84'
+    - name: 'Important Ring 1'
+    - name: 'Important Ring 2'
+    - name: 'Important Ring 3'
+    - name: 'Important Ring 4'
+    - name: 'Important Ring 5'
+    - name: 'Important Ring 6'
+    - name: 'Important Ring 7'
 
 entryStates:
-  legendTitle: 'Zustände'
+  legendTitle: 'States'
   list:
     - name: 'New'
       color: '#1b9e77'

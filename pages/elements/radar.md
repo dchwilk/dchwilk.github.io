@@ -6,6 +6,12 @@ hero_tags: subpage
 permalink: /elements/radar/
 ---
 
+# The Radar
+
+An explanation about the radar and it´s usage.
+
+### Choose Sector
+
 <div id="radar"></div>
 
 <script>

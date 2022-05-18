@@ -132,9 +132,14 @@ function updateSite() {
 
 // Font size
 var html=document.querySelector('html');
-
+var logo = document.getElementById("navbar-logo");
 function updateFontSize() {
     html.style.fontSize=siteData.fontSize+"rem";
+    if(siteData.fontSize == 1.2){
+        logo.src = "../assets/img/logo-horizontal-short.png";
+    }else{
+        logo.src = "../assets/img/logo-short.png";
+    }
 }
 
 // Change font size Button
