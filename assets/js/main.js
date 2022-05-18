@@ -136,9 +136,9 @@ var logo = document.getElementById("navbar-logo");
 function updateFontSize() {
     html.style.fontSize=siteData.fontSize+"rem";
     if(siteData.fontSize == 1.2){
-        logo.src = "../assets/img/logo-horizontal-short.png";
+        logo.src = "/assets/img/logo-horizontal-short.png";
     }else{
-        logo.src = "../assets/img/logo-short.png";
+        logo.src = "/assets/img/logo-short.png";
     }
 }
 
