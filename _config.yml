@@ -31,6 +31,7 @@ plugins:
   - jekyll-sass-converter
   - jekyll-titles-from-headings
   - jekyll-watch
+  - jekyll-target-blank
 github: [metadata]
 sass:
   style: compressed
