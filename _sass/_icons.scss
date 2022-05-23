@@ -14,6 +14,14 @@
   background: url(/assets/img/icons/external.svg) no-repeat;
   transform: rotate(-90deg);
 }
+.icon-open-dropdown:before {
+  @extend .custom-button-icons;
+  background: url(/assets/img/icons/open-dropdown.svg) no-repeat;
+}
+.icon-close-dropdown:before {
+  @extend .custom-button-icons;
+  background: url(/assets/img/icons/close-dropdown.svg) no-repeat;
+}
 .icon-search:before {
   @extend .custom-button-icons;
   background: url(/assets/img/icons/search.svg) no-repeat;

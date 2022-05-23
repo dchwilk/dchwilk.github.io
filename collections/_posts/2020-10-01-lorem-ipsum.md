@@ -6,8 +6,8 @@ author: Marc Schmidt
 date: 10.01.2020
 categories: News
 tags: news intia probes
-hero_image: https://via.placeholder.com/400x400
-preview_image: https://via.placeholder.com/400x400
+hero_image: https://via.placeholder.com/1400x1400
+preview_image: https://via.placeholder.com/1400x1400
 hero_tags: subpage post pdf
 subtitle: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
