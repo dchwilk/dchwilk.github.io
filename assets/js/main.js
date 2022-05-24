@@ -4,8 +4,8 @@ const carousels = bulmaCarousel.attach('.carousel',{
     slidesToScroll: 1,
     slidesToShow: 1,
     icons: {
-        'previous': `<img src="../assets/img/arrow-left.png"></img>`,
-        'next': `<img src="../assets/img/arrow-left.png" style="transform: rotate(180deg);"></img>`}
+        'previous': `<img src="../assets/img/icons/arrow-left.svg"></img>`,
+        'next': `<img src="../assets/img/icons/arrow-left.svg" style="transform: rotate(180deg);"></img>`}
 });
 
 // Scrollarrows
