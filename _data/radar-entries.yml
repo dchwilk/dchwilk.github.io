@@ -1,16 +1,16 @@
 - name: 'Method 1'
   sectorID: 1
   ringID: 0
-  stateID: 0
+  stateID: 1
   active: true
-  link: ''
+  link: 'a'
   moved: 0
 - name: 'Method 2'
   sectorID: 1
   ringID: 1
-  stateID: -1
+  stateID: 1
   active: true
-  link: ''
+  link: 'a'
   moved: 0
 
 
@@ -22,16 +22,16 @@
 - name: 'Method 3'
   sectorID: 4
   ringID: 0
-  stateID: -1
+  stateID: 1
   active: true
-  link: ''
+  link: 'a'
   moved: 0
 - name: 'Method 4'
   sectorID: 4
   ringID: 2
   stateID: 0
   active: true
-  link: ''
+  link: 'a'
   moved: 0
 
 
@@ -42,7 +42,7 @@
   ringID: 1
   stateID: 2
   active: true
-  link: ''
+  link: 'a'
   moved: 0
 - name: 'Method 6'
   sectorID: 0
@@ -66,7 +66,7 @@
 - name: 'Method 8'
   sectorID: 3
   ringID: 2
-  stateID: -1
+  stateID: 1
   active: true
   link: ''
   moved: 1
@@ -97,7 +97,7 @@
 - name: 'Method 11'
   sectorID: 2
   ringID: 2
-  stateID: -1
+  stateID: 1
   active: true
   link: ''
   moved: 0
@@ -112,7 +112,7 @@
 - name: 'Method 11'
   sectorID: 2
   ringID: 3
-  stateID: -1
+  stateID: 1
   active: true
   link: ''
   moved: 0
@@ -127,7 +127,7 @@
 - name: 'Method 11'
   sectorID: 2
   ringID: 4
-  stateID: -1
+  stateID: 1
   active: true
   link: ''
   moved: 0
@@ -142,7 +142,7 @@
 - name: 'Method 11'
   sectorID: 2
   ringID: 5
-  stateID: -1
+  stateID: 1
   active: true
   link: ''
   moved: 0
@@ -157,7 +157,7 @@
 - name: 'Method 11'
   sectorID: 2
   ringID: 6
-  stateID: -1
+  stateID: 1
   active: true
   link: ''
   moved: 0

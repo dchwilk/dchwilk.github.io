@@ -5,6 +5,8 @@ radar:
   legendDropdownText: 'Legend'
   defaultColor: '#7db6b0'
   renderResolution: 518
+  linkPrefix: '/glossary/'
+  linkSuffix: ''
 
 sector:
   showName: true
@@ -13,10 +15,11 @@ sector:
 segment: 
   colorGradient: true
   colorGradientLimit: 1.5
-  showName: true
+  showName: false
   padding: 4
 
 blip:
-  size: 12
+  size: 1
   defaultColor: '#1e7d73'
-  margin: 4
+  margin: 10
+  outerCircleRadius: 0

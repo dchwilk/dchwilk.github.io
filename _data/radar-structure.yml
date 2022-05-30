@@ -19,12 +19,10 @@ rings:
 entryStates:
   legendTitle: 'States'
   list:
-    - name: 'New'
-      color: '#1b9e77'
-    - name: 'Testing'
-      color: '#e7298a'
-    - name: 'Old'
-      color: '#d95f02'
+    - name: 'New Methods'
+      color: '#09443E'
+    - name: 'Existing Methods'
+      color: '#1e7d73'
 
 entryMovement:
   legendTitle: 'Movement'

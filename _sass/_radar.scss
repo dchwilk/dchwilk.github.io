@@ -144,6 +144,7 @@
         position: relative;    
         border-radius: var(--borderRadius);
         padding:  var(--textPadding);
+        max-width: 300px;
         cursor: pointer;
     }
     .radarContainer .cardItem:hover{
@@ -260,7 +261,7 @@
     }
     .radarLegend .stateColor{
         position: absolute;
-        top: 25%;
+        top: 35%;
         width: var(--radarLegendCardItemText);
         height: var(--radarLegendCardItemText);
         border-radius: 50%;
