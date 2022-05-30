@@ -15,13 +15,13 @@
   @media print {
     @content;
   }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 1407px) {
     .navbar.is-primary .navbar-start .navbar-link::after,
     .navbar.is-primary .navbar-end .navbar-link::after {
       border-color: white;
     }
   }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 1407px) {
     .navbar.is-primary .navbar-start > .navbar-item,
     .navbar.is-primary .navbar-start .navbar-link,
     .navbar.is-primary .navbar-end > .navbar-item,
@@ -29,7 +29,7 @@
       color: white;
     }
   }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 1407px) {
     .navbar.is-primary .navbar-item.has-dropdown:focus .navbar-link,
     .navbar.is-primary .navbar-item.has-dropdown:hover .navbar-link,
     .navbar.is-primary .navbar-item.has-dropdown.is-active .navbar-link {

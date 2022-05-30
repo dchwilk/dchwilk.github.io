@@ -1,8 +1,9 @@
 #radar {
     /* Generel */
         --fontFamily: "Verdana", sans-serif;
-        --borderRadius: 0;
+        --borderRadius: 0px;
         --lineWidth: 1; 
+        --lineWidthSector: 5;
         --spacing: 8px;
         --textPadding: 0.25em;
         --dropdownBoxShadow: 0 5px 20px rgba(0,0,0,0.1);
@@ -36,7 +37,7 @@
             'radar';
         grid-gap: var(--spacing);
         /* background-color: rgb(250, 250, 250); */
-        background-color: rgba(0, 0, 0, 0.02);
+        background-color: white;
         border-radius: var(--borderRadius);
         padding: var(--spacing);
         font-family: var(--fontFamily);

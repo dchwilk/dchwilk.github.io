@@ -588,7 +588,7 @@ function createRadar(config, structure, entries){
             .on(`click`, sector => { 
                 displaySector(sector);
                 changeSvgViewbox(sector.idText); 
-            });        
+            })       
         if(config.sector.showName){
             let name = selection.append(`g`)
                 .attr(`class`, `sectorName`)
